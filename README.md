@@ -25,4 +25,4 @@ Le cycle se répète sur tout le morceau :
 4. **D (Ré Majeur)**
 
 ---
-*Ce projet fait partie de l'initiative Guitare Today pour rendre l'apprentissage de la musique autonome, intuitif et accessible à tous.*# tuto-guitare-Stand-By-Me
+* Ce projet fait partie de l'initiative Guitare Today pour rendre l'apprentissage de la musique autonome, intuitif et accessible à tous.*# tuto-guitare-Stand-By-Me
